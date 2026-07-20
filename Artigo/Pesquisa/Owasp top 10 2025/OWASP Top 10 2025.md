@@ -7,12 +7,8 @@
 - Cada categoria é composta por diversas CWEs.
 - Existem cerca de 25 CWEs consideradas as mais críticas de forma geral (MITRE Top 25), mas cada categoria do OWASP possui sua própria seleção de CWEs mais relevantes.
 
-## Para o meu artigo
+## Categorias focadas no artigo
 
-Meu estudo irá focar em:
-
-- Broken Access Control
-- Injection
-- Authentication Failures (caso necessário para explicar o fluxo de login)
-
-As demais categorias servirão apenas como fundamentação.
+- Broken Access Control [[Índice - BAC]]
+- Injection [[Índice - Injection|Índice - Injection]]
+- Authentication Failures [[Índice - Authentication Failures]]

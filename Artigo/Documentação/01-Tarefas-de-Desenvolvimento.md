@@ -6,7 +6,10 @@ tags: [tcc, seguranca, tarefas]
 
 Checklist técnico organizado pelo cronograma de 6 meses (ver [[00-Indice]]). Cada mês fecha com a redação do capítulo correspondente — não deixe a escrita acumular para o final. Para o que escrever, ver [[02-Guia-de-Documentacao]]; para estudar as ferramentas, ver [[03-Guia-de-Tecnologias]].
 
-> Ritmo sugerido por mês, trabalhando sozinho: ~2 semanas de desenvolvimento, ~1 semana de testes/ajustes, ~1 semana de escrita e revisão. Ajuste conforme sua disponibilidade real — o importante é não deixar a escrita para o fim do mês seguinte.
+> Ritmo por mês: 
+> ~2 semanas de desenvolvimento
+> ~1 semana de testes/ajustes
+> ~1 semana de escrita e revisão. 
 
 ## Mês 1 — Metodologia + Capítulo 1 (Fundamentação Teórica) #metodologia #cap1
 
